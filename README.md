@@ -3,10 +3,10 @@
 Welcome to the Stubhub Tracker Jupyter Notebook project! This project is designed to help you track and analyze ticket prices on Stubhub.
 
 ## Features
-
+- **Data Cleaning**: Clean and preprocess the scraped data for analysis.
+- **Missing Information Handling**: Identify and fill in missing information in the dataset.
 - **Data Collection**: Scrape ticket prices from Stubhub.
 - **Data Analysis**: Analyze price trends and patterns.
-- **Visualization**: Visualize data using charts and graphs.
 
 ## Requirements
 
