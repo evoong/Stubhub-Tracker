@@ -1,12 +1,15 @@
-# Stubhub Tracker
+Here's a README for the Concert-Price-Predictor project:
 
-Welcome to the Stubhub Tracker Jupyter Notebook project! This project is designed to help you track and analyze ticket prices on Stubhub.
+# Concert Price Predictor
+
+Welcome to the Concert Price Predictor! This project is designed to help you predict ticket prices for concerts using historical data and machine learning techniques.
 
 ## Features
-- **Data Cleaning**: Clean and preprocess the scraped data for analysis.
-- **Missing Information Handling**: Identify and fill in missing information in the dataset.
-- **Data Collection**: Scrape ticket prices from Stubhub.
+- **Data Collection**: Scrape and collect historical ticket prices and related data.
+- **Data Cleaning**: Clean and preprocess the collected data for analysis.
 - **Data Analysis**: Analyze price trends and patterns.
+- **Model Training**: Train machine learning models to predict ticket prices.
+- **Prediction**: Predict future ticket prices based on the trained models.
 
 ## Requirements
 
@@ -18,11 +21,11 @@ Welcome to the Stubhub Tracker Jupyter Notebook project! This project is designe
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/stubhub-tracker.git
+    git clone https://github.com/evoong/Concert-Price-Predictor.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd stubhub-tracker
+    cd Concert-Price-Predictor
     ```
 3. Install the required libraries:
     ```sh
@@ -35,6 +38,20 @@ Welcome to the Stubhub Tracker Jupyter Notebook project! This project is designe
     ```sh
     jupyter notebook
     ```
-2. Open the `Stubhub_Tracker.ipynb` notebook.
-3. Follow the instructions in the notebook to start tracking and analyzing ticket prices.
+2. Open the `Concert_Price_Predictor.ipynb` notebook.
+3. Follow the instructions in the notebook to start predicting concert ticket prices.
 
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Inspiration
+- References
+
+Feel free to modify this README to better fit the specifics of your project.
