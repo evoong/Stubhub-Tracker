@@ -1,5 +1,3 @@
-Here's a README for the Concert-Price-Predictor project:
-
 # Concert Price Predictor
 
 Welcome to the Concert Price Predictor! This project is designed to help you predict ticket prices for concerts using historical data and machine learning techniques.
@@ -10,6 +8,21 @@ Welcome to the Concert Price Predictor! This project is designed to help you pre
 - **Data Analysis**: Analyze price trends and patterns.
 - **Model Training**: Train machine learning models to predict ticket prices.
 - **Prediction**: Predict future ticket prices based on the trained models.
+
+## Technologies and Libraries Used
+
+- **Programming Language**: Python 3.x
+- **Data Collection**: BeautifulSoup, Selenium
+- **Data Cleaning and Analysis**: Pandas, NumPy
+- **Machine Learning**: Scikit-learn,
+- **Visualization**: Matplotlib, Seaborn
+- **Development Environment**: Jupyter Notebook
+
+## Machine Learning Techniques
+
+- **Regression Models**: Linear Regression, Ridge Regression, Lasso Regression
+- **Tree-based Models**: Decision Trees, Random Forest, Gradient Boosting
+- **Neural Networks**: Deep Learning models using TensorFlow and Keras
 
 ## Requirements
 
